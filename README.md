@@ -1,4 +1,4 @@
-# constitution
+# Game Development Group Constitution
 The Constitution and Bylaws of the Game Development Group at the University of Cincinnati.
 
 All ammendments and changes will be tracked here.
