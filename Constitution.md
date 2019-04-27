@@ -60,7 +60,7 @@ Any student who consistently disrupts GameDev Group functions or procedures will
 
 Ratification by two-thirds (2/3) of the voting members of the GameDev Group shall be sufficient to establish this constitution.
 
-## Bylaws of the Association for Computing Machinery at UC
+## Bylaws of the UC Game Development Group
 
 ### Section I: DUTIES OF OFFICERS
 
@@ -88,7 +88,7 @@ Ratification by two-thirds (2/3) of the voting members of the GameDev Group shal
 
     a. Maintenance of the official GameDev Group email account.
 
-    b. Maintenance of the official GameDev Group  Calendar.
+    b. Maintenance of the official GameDev Group Calendar.
 
     c. Performance of other duties as assigned by the President.
 
