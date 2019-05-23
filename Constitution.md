@@ -20,11 +20,9 @@ This is a living document. All changes are public and can be viewed with the Git
 
 2. The GameDev Group will serve students at the University of Cincinnati and other interested persons in the Cincinnati community.
 
-3. The GameDev Group is chartered by the ACM.
-
 ### Article III: Membership
 
-1. Membership in the Student GameDev Group shall be open to all ACM members and nonmembers that are also University of Cincinnati students.
+1. Membership in the Student GameDev Group shall be open to all University of Cincinnati students.
 
 2. Voting membership in the Student GameDev Group shall be granted to chapter members that have attended at least two meetings, excluding officer elections.
 
@@ -34,13 +32,11 @@ This is a living document. All changes are public and can be viewed with the Git
 
 1. The officers of this GameDev Group shall be: President, Vice President, Secretary, Treasurer, and Webmaster. These officers constitute the Council.
 
-2. All officers of the GameDev Group must be members of ACM.
+2. No member may serve in the office of President or Vice President for more than two consecutive years.
 
-3. No member may serve in the office of President or Vice President for more than two consecutive years.
+3. Officers must be in good academic and disciplinary standing with the University of Cincinnati to run and be elected and will be removed from office upon losing this status. Officers must also have a minimum 2.3 GPA.
 
-4. Officers must be in good academic and disciplinary standing with the University of Cincinnati to run and be elected and will be removed from office upon losing this status. Officers must also have a minimum 2.3 GPA.
-
-5. If a situation arises in which an officer can no longer fulfill the requirements of his or her position, he or she must leave office. Another election, following the same rules, as the regularly scheduled yearly ones should be held in a timely manner to elect a replacement for the vacated position.
+4. If a situation arises in which an officer can no longer fulfill the requirements of his or her position, he or she must leave office. Another election, following the same rules, as the regularly scheduled yearly ones should be held in a timely manner to elect a replacement for the vacated position.
 
 ### Article V: University Advisor
 
