@@ -1,4 +1,4 @@
-# Game Development Group Constitution and Bylaws
+# UC Game Development Group Constitution and Bylaws
 
 This is a living document. All changes are public and can be viewed with the Git history of this repository.
 
@@ -6,7 +6,7 @@ This is a living document. All changes are public and can be viewed with the Git
 
 ### Article I: Name
 
-1. This organization shall be called the UC Game Development Group. In this Constitution it is referred to as the GameDev Group;
+1. This organization shall be called the UC Game Development Group. In this Constitution it is referred to as the GameDev Group.
 
 ### Article II: Purpose
 
@@ -24,7 +24,7 @@ This is a living document. All changes are public and can be viewed with the Git
 
 1. Membership in the Student GameDev Group shall be open to all University of Cincinnati students.
 
-2. Voting membership in the Student GameDev Group shall be granted to chapter members that have attended at least two meetings, excluding officer elections.
+2. Voting membership in the Student GameDev Group shall be granted to GameDev Group members that have attended at least two meetings, excluding officer elections.
 
 3. At least half of the voting members must be undergraduates.
 
@@ -94,7 +94,7 @@ Ratification by two-thirds (2/3) of the voting members of the GameDev Group shal
 
 2. All officers shall be elected by a plurality vote of those persons casting ballots.
 
-3. Officers will take office two weeks after election. In the two weeks following elections, the outgoing executive board shall transfer all chapter accounts, keys, and money to the incoming executive board, and help the incoming board transition into the leadership of the chapter.
+3. Officers will take office two weeks after election. In the two weeks following elections, the outgoing executive board shall transfer all GameDev Group accounts, keys, and money to the incoming executive board, and help the incoming board transition into the leadership of the GameDev Group.
 
 ### Section III: Executive Board
 
